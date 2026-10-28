@@ -62,9 +62,7 @@ python test.py
 
 Show a sign to the camera. The predicted letter appears above your hand. Press `Ctrl+C` in the terminal to stop.
 
-## Results
 
-**[CONFIRM: images per letter, and accuracy if measured. Otherwise delete this section or write "Tested live on webcam."]**
 
 ## Limitations
 
